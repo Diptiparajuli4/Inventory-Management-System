@@ -1,0 +1,5 @@
+ID,Name,Quantity,Price,Category
+P101,dotnet,1,1399.0,Language
+P102,Java,2,1500.0,Language
+P103,Python,1,1500.0,Semester
+P105,Mathematics,3,900.0,Subject
